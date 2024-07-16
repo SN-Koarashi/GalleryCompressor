@@ -1,0 +1,17 @@
+{
+  "name": "GalleryCompress",
+  "version": "1.0.0",
+  "description": "photo compressing and resizing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "5026",
+  "license": "GPLv3",
+  "dependencies": {
+    "compress-images": "^2.0.5",
+    "fs-extra": "^10.0.0",
+    "image-size": "^1.1.1",
+    "pngquant-bin": "^6.0.1",
+    "sharp": "^0.33.4"
+  }
+}
