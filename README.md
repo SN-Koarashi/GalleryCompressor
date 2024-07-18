@@ -1,2 +1,2 @@
-# GalleryCompress
-Provides the function of compressing and reducing the resolution of photos in the photo library to suit web preview.
+# Gallery Compressor
+Compress photos in your gallery and reduce their resolution to speed up web browsing and save network bandwidth.
